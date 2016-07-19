@@ -1,0 +1,4 @@
+react-native.sublime-snippet
+native-base.sublime-snippet
+react-native-router-flux.sublime-snippet
+mobx-react-native.sublime-snippet = mobx-react/native.sublime-snippet

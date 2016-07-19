@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TextInput]]></content>
+    <tabTrigger>TextInput</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native component</description>
+</snippet>

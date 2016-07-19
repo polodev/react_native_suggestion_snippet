@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[observable]]></content>
+    <tabTrigger>observable</tabTrigger>
+    <scope>source.js</scope>
+    <description>import from mobx @observable in Store</description>
+</snippet>

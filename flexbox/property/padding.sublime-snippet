@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+padding
+]]></content>
+    <tabTrigger>padding</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native flexbox</description>
+</snippet>

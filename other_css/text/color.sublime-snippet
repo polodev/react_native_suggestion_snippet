@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[color]]></content>
+    <tabTrigger>color</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Text Style</description>
+</snippet>

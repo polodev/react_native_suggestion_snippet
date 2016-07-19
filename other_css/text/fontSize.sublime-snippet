@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fontSize]]></content>
+    <tabTrigger>fontSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Text Style</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TouchableHighlight]]></content>
+    <tabTrigger>TouchableHighlight</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native component</description>
+</snippet>

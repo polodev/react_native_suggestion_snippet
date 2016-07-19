@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[textAlign]]></content>
+    <tabTrigger>textAlign</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Text Style</description>
+</snippet>

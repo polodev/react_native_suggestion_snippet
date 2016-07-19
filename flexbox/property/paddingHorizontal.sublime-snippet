@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+paddingHorizontal
+]]></content>
+    <tabTrigger>paddingHorizontal</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native flexbox</description>
+</snippet>

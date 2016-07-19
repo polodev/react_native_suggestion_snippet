@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stretch]]></content>
+    <tabTrigger>stretch</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native resizeMode value</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[space-between]]></content>
+    <tabTrigger>space-between</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native flexbox value</description>
+</snippet>

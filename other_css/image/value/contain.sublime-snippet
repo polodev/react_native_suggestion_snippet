@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[contain]]></content>
+    <tabTrigger>contain</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native resizeMode value</description>
+</snippet>

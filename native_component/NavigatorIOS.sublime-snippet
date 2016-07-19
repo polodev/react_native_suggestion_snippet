@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[NavigatorIOS]]></content>
+    <tabTrigger>NavigatorIOS</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native component</description>
+</snippet>

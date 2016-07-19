@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[borderTopLeftRadius]]></content>
+    <tabTrigger>borderTopLeftRadius</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native View Style</description>
+</snippet>

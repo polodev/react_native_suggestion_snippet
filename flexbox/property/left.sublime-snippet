@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[left]]></content>
+    <tabTrigger>left</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native flexbox</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[borderStyle]]></content>
+    <tabTrigger>borderStyle</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native View Style</description>
+</snippet>

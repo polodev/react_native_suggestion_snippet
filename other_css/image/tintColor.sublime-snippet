@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tintColor]]></content>
+    <tabTrigger>tintColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Image Style</description>
+</snippet>

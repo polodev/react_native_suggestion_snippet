@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[TimePickerAndroid]]></content>
+    <tabTrigger>TimePickerAndroid</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native api</description>
+</snippet>

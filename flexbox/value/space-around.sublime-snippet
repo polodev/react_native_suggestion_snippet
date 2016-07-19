@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[space-around]]></content>
+    <tabTrigger>space-around</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native flexbox value</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[mobx-react/native]]></content>
+    <tabTrigger>mobx-react-native</tabTrigger>
+    <scope>source.js</scope>
+    <description>import observer from mobx-react/native</description>
+</snippet>

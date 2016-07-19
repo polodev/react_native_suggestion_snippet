@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[borderRadius]]></content>
+    <tabTrigger>borderRadius</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Image Style</description>
+</snippet>

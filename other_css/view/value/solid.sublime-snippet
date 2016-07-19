@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[solid]]></content>
+    <tabTrigger>solid</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native View Style Value</description>
+</snippet>

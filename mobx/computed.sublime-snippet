@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[computed]]></content>
+    <tabTrigger>computed</tabTrigger>
+    <scope>source.js</scope>
+    <description>import from mobx @compute store</description>
+</snippet>

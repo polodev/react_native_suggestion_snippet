@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[VibrationIOS]]></content>
+    <tabTrigger>VibrationIOS</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native api</description>
+</snippet>

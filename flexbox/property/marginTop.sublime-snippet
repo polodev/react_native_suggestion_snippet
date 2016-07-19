@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+marginTop
+]]></content>
+    <tabTrigger>marginTop</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native flexbox</description>
+</snippet>

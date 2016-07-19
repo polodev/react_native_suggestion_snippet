@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[row-reverse]]></content>
+    <tabTrigger>row-reverse</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native flexbox value - flexDirection</description>
+</snippet>

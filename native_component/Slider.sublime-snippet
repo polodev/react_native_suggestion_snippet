@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Slider]]></content>
+    <tabTrigger>Slider</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native component</description>
+</snippet>

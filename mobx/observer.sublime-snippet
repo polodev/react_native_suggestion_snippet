@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[observer]]></content>
+    <tabTrigger>observer</tabTrigger>
+    <scope>source.js</scope>
+    <description>import from mobx-react/native to @observe class</description>
+</snippet>

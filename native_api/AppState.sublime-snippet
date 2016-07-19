@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[AppState]]></content>
+    <tabTrigger>AppState</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native api</description>
+</snippet>

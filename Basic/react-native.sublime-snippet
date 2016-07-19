@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[react-native]]></content>
+    <tabTrigger>react-native</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Basic</description>
+</snippet>
