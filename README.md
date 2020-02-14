@@ -1,7 +1,7 @@
 # react_native_suggestion_snippet
 sublime react native suggestion snippet  
 
-Some time Its hard to remember all keyword of react native for beginner. So I made these snippet. It will certainly increase the productivity while making reac native app
+Some time, Its hard to remember all keyword of react native for beginner. So I made these snippet. It will certainly increase the productivity while making react native app
 
 ### componet and Style auto suggestion 
 
